@@ -1,2 +1,1 @@
-hello two
-test again
+this is a test file
